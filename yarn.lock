@@ -555,7 +555,7 @@
     lodash "^4.17.15"
     strip-ansi "^6.0.0"
 
-"@nexus/schema@^0.15.0":
+"@nexus/schema@0.15.0", "@nexus/schema@^0.15.0":
   version "0.15.0"
   resolved "https://registry.yarnpkg.com/@nexus/schema/-/schema-0.15.0.tgz#4f444417a1163a09d732e5b3b203f22780f4ae63"
   integrity sha512-Q3JYHlxvQ24z5vGfDbEOT7Q+zIFYvnuPv14jNdQ/KCRk6YQODPD/nSQilfFJW+9CBIhZhWZACjbeALRKFLCwjg==
@@ -841,7 +841,7 @@
     terminal-link "^2.1.1"
     undici "1.1.0"
 
-"@prisma/fetch-engine@2.4.0", "@prisma/fetch-engine@^2.4.0":
+"@prisma/fetch-engine@2.4.0":
   version "2.4.0"
   resolved "https://registry.yarnpkg.com/@prisma/fetch-engine/-/fetch-engine-2.4.0.tgz#6dc0045528943990949e046656be5842cea6a236"
   integrity sha512-QM0S4I60SuB/T9cRYJI51wATEfTwUWtZaQl34Xq1Bb9Z0J1qP5s/beL68lyU2oqNMsnSf8Ee5JH4XebAcDFkyA==
@@ -909,7 +909,7 @@
     chalk "^4.0.0"
     cross-spawn "^7.0.2"
 
-"@prisma/get-platform@2.4.0", "@prisma/get-platform@^2.4.0":
+"@prisma/get-platform@2.4.0":
   version "2.4.0"
   resolved "https://registry.yarnpkg.com/@prisma/get-platform/-/get-platform-2.4.0.tgz#4e19f7c7234870d2adf0cd6bee13be2cb6868526"
   integrity sha512-PNyaCsCOmJzN5Wz0K9ksjqevr/naScI2cVapYR0xBA72PjxM5xyyT+GjcZ1t5QEJ4FugtcR2s6501cFo+IvotA==
@@ -936,7 +936,7 @@
     string-width "^4.2.0"
     terminal-link "^2.1.1"
 
-"@prisma/migrate@^2.4.0":
+"@prisma/migrate@2.4.0":
   version "2.4.0"
   resolved "https://registry.yarnpkg.com/@prisma/migrate/-/migrate-2.4.0.tgz#cf0e8abad41c3a49e47ed541677c010454397d5f"
   integrity sha512-TMHZCEK4PPeadF7Jn0jvrYRSZ5+MgNc6yAnmIybtAgZZmYws9ajC/fcGYmdpZRL/0y9kure35Kft4/i18Y2FDQ==
